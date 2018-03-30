@@ -1,4 +1,4 @@
-
+# * 为可变参数
 def product(x,*y):
   pro = x
   for y in y:
