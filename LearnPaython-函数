@@ -1,0 +1,7 @@
+
+def product(x,*y):
+  pro = x
+  for y in y:
+    pro = pro * y 
+  return pro
+
